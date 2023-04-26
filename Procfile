@@ -1,1 +1,1 @@
-web: gunicorn coolsentimentsanalyzer.wsgi --log-file - 
+web: streamlit run sentiment-analyzer.py --log-file - 
