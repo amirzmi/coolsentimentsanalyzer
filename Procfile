@@ -1,1 +1,1 @@
-web: streamlit run sentiment-analyzer.py --log-file - 
+web: sh setup.sh && streamlit run sentiment-analyzer.py
