@@ -8,7 +8,6 @@ django-filter==23.1
 django-heroku==0.3.1
 djangorestframework==3.14.0
 gunicorn==20.1.0
-heroku==0.1.4
 idna==3.4
 joblib==1.2.0
 Markdown==3.4.3
@@ -26,3 +25,5 @@ tzdata==2023.3
 urllib3==1.26.15
 whitenoise==6.4.0
 streamlit==1.21.0
+pandas==1.5.3
+plotly==5.14.1
